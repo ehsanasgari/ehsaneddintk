@@ -2,7 +2,11 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+.idea
+.DS_Store
+.env
+.pytest_cache/
+.vscode/
 # C extensions
 *.so
 
